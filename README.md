@@ -4,7 +4,7 @@ A modern and responsive Healthcare Website built using React.js and Vite, design
 
 ## 🚀 Live Demo
 
-🔗 https://medilink-app.vercel.app
+🔗 https://medilinkin.vercel.app
 
 ## ✨ Features
 
